@@ -6,7 +6,7 @@
 
 
 ### 老王的解法链接
-[]()
+[https://github.com/simplemain/leetcode/blob/master/1/analysis.md](https://github.com/simplemain/leetcode/blob/master/1/analysis.md)
 
 ### 难度
 

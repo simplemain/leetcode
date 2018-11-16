@@ -1,13 +1,12 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-
 /**
  * code by : 老王
  * https://github.com/simplemain
  */
 
- 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+
 public class Solution3
 {
 	public static void main(String[] args) 

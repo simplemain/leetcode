@@ -10,12 +10,13 @@
 
 如果觉得老王的讲解有意思或有帮助, 可以给老王点个赞或者打个赏啥的, 老王就很开心啦~
 
-<div align="center"><img src="qrcode_pay.min.jpg" width="200" height="200" /></div>
+<div align="center"><img src="https://github.com/simplemain/leetcode/blob/master/qrcode_pay.min.jpg" width="200" height="200" /></div>
 
 ---
 
 | ID | 解法链接 |    Title    | 中文标题 |  难度  |    标签   |
 |---:|:-------|:-----------|:--------|:-----:|:-------|
-| 1 | [3种解法](1/analysis.md) |  Two Sum | 两个数的和 | ★☆☆☆☆ | 循环 / 二分搜索 / 排序 / 哈希 |
+| 1 | [3种解法](https://github.com/simplemain/leetcode/blob/master/1/analysis.md) |  Two Sum | 两个数的和 | ★☆☆☆☆ | 循环 / 二分搜索 / 排序 / 哈希 |
+| 1 | [1种解法](https://github.com/simplemain/leetcode/blob/master/2/analysis.md) |  Add Two Numbers | 两个数相加 | ★☆☆☆☆ | 链表 |
 
 

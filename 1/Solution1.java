@@ -1,3 +1,8 @@
+/**
+ * code by : 老王
+ * https://github.com/simplemain
+ */
+
 public class Solution1
 {
 	public static void main(String[] args) 

@@ -1,3 +1,8 @@
+/**
+ * code by : 老王
+ * https://github.com/simplemain
+ */
+
 import java.util.Arrays;
 
 public class Solution2

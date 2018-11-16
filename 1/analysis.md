@@ -91,6 +91,6 @@ hash, 好多算法的通用王牌解法. 这道题我们其实也可以用这种
 
 好了, 这一题就分析到这里. 如果觉得老王的讲解有意思或有帮助, 可以给老王点个赞或者打个赏啥的, 老王就很开心啦~
 
-<div align="center"><img src="../qrcode_pay.min.jpg" width="200" height="200" /></div>
+<div align="center"><img src="https://github.com/simplemain/leetcode/blob/master/qrcode_pay.min.jpg" width="200" height="200" /></div>
 
 咱下一题继续~~

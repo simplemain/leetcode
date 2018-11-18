@@ -14,10 +14,10 @@
 
 ---
 
-| ID | 解法链接 |    Title    | 中文标题 |  难度  |    标签   |
-|---:|:-------|:-----------|:--------|:-----:|:-------|
-| 1 | [3种解法](https://github.com/simplemain/leetcode/blob/master/1/analysis.md) |  Two Sum | 两个数的和 | ★☆☆☆☆ | 循环 / 二分搜索 / 排序 / 哈希 |
-| 2 | [1种解法](https://github.com/simplemain/leetcode/blob/master/2/analysis.md) |  Add Two Numbers | 两个数相加 | ★☆☆☆☆ | 链表 |
-| 3 | [5种解法](https://github.com/simplemain/leetcode/blob/master/3/analysis.md) |  Longest Substring Without Repeating Characters | 没有重复字母的最长子串 | ★★☆☆☆ | 字符串 / 判重 |
+| ID | 解法链接 |    标题   |  难度  |    标签   |
+|---:|:-------|:----------|:-----:|:----------|
+| 1 | [3种解法](https://github.com/simplemain/leetcode/blob/master/1/analysis.md) |  两个数的和 [Two Sum] | ★☆☆☆☆ | 循环 / 二分搜索 / 排序 / 哈希 |
+| 2 | [1种解法](https://github.com/simplemain/leetcode/blob/master/2/analysis.md) |  两个数相加 [Add Two Numbers] | ★☆☆☆☆ | 链表 |
+| 3 | [5种解法](https://github.com/simplemain/leetcode/blob/master/3/analysis.md) |  没有重复字母的最长子串 [Longest Substring Without Repeating Characters] | ★★☆☆☆ | 字符串 / 判重 |
 
 

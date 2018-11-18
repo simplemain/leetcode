@@ -11,7 +11,7 @@
 
 如果碰巧你看到了这些解题思路和算法代码, 并且觉得老王的题解有意思或有帮助, 可以给老王`点个赞`或者`打个赏`啥的, 老王就更开心啦 ^o^
 
-<div align="center"><img src="https://github.com/simplemain/leetcode/blob/master/qrcode_pay.min.jpg" width="160" height="160" /></div>
+<div align="center"><img src="https://github.com/simplemain/leetcode/blob/master/qrcode_pay.min.jpg" width="120" height="120" /></div>
 
 
 | ID | 解法链接 |    标题   |  难度  |    标签   |

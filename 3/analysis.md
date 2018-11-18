@@ -80,7 +80,7 @@ for (int p = 0; p < len; p++)
 
 代码看起来非常简洁, 不过呢, 就是执行效率不高. 大家看到基本上就是三重循环, 所以时间复杂度O(n^3).
 
-完整代码请点击这里: [完整代码](Solution1.java)
+完整代码请点击这里: [完整代码](https://github.com/simplemain/leetcode/blob/master/3/Solution1.java)
 
 ---
 
@@ -92,7 +92,7 @@ for (int p = 0; p < len; p++)
 
 时间复杂度就降到: O(n^2) ~ O(n^2 * lgn) [为什么Hash是这个复杂度, 请参见老王在第一题中的分析哈]
 
-完整代码请点击这里: [完整代码](Solution2.java)
+完整代码请点击这里: [完整代码](https://github.com/simplemain/leetcode/blob/master/3/Solution2.java)
 
 ---
 
@@ -104,7 +104,7 @@ for (int p = 0; p < len; p++)
 
 即使这题含有中文字符, 用unicode编码, 我们也可以用一个char[65536]的数组来处理, 因为他满足我们上面说的两个条件.
 
-完整代码请点击这里: [完整代码](Solution3.java)
+完整代码请点击这里: [完整代码](https://github.com/simplemain/leetcode/blob/master/3/Solution3.java)
 
 ---
 
@@ -152,7 +152,7 @@ abc[defgc]d
 
 这样, 我们就通过一遍扫描, 完成了算法的要求.
 
-完整代码请点击这里: [完整代码](Solution4.java)
+完整代码请点击这里: [完整代码](https://github.com/simplemain/leetcode/blob/master/3/Solution4.java)
 
 ---
 
@@ -162,7 +162,7 @@ abc[defgc]d
 
 我们可以将窗口里每个元素的位置记录一下, 到时挪动的时候, 只需要从记录表里面查一下, 就知道应该将左括号`[`挪动到这个元素的`下一个位置`. 对吧~
 
-完整代码请点击这里: [完整代码](Solution5.java)
+完整代码请点击这里: [完整代码](https://github.com/simplemain/leetcode/blob/master/3/Solution5.java)
 
 ---
 

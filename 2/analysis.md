@@ -57,7 +57,7 @@ l2: (5 -> 6 -> 4)
 
 其实测试的case中, 专门有测试进位的操作, 所以大家务必小心.
 
-完整代码请点击这里: [完整代码](Solution1.java)
+完整代码请点击这里: [完整代码](https://github.com/simplemain/leetcode/blob/master/2/Solution1.java)
 
 ### 知识扩展
 

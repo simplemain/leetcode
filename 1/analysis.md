@@ -55,7 +55,7 @@ for (int i = 0; i < nums.length; i++)
 }
 ```
 
-完整代码请点击这里: [完整代码](Solution1.java)
+完整代码请点击这里: [完整代码](https://github.com/simplemain/leetcode/blob/master/1/Solution1.java)
 
 这种算法的优点就是简单直接. 但是缺点也很明显, 就是时间复杂度比较高: O(n^2).
 
@@ -71,7 +71,7 @@ for (int i = 0; i < nums.length; i++)
 
 这样, 整体的时间复杂度就是O(nlgn).
 
-完整代码请点击这里: [完整代码](Solution2.java)
+完整代码请点击这里: [完整代码](https://github.com/simplemain/leetcode/blob/master/1/Solution2.java)
 
 ---
 
@@ -85,7 +85,7 @@ hash, 好多算法的通用王牌解法. 这道题我们其实也可以用这种
 
 如果hash表冲突很大, 就看具体实现了. Java8里面用了红黑树, 最坏情况退化成O(lgn)的查找, 从而最后的时间复杂度约为O(nlgn).
 
-完整代码请点击这里: [完整代码](Solution3.java)
+完整代码请点击这里: [完整代码](https://github.com/simplemain/leetcode/blob/master/1/Solution3.java)
 
 ---
 

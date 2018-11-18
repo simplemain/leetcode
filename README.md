@@ -9,8 +9,6 @@
 
 于是产生了一个想法: 把这上面的题都写一遍, 记录下解法. 如果能分享给更多的人, 大家一起讨论和进步, 就更好了!
 
-从今开始, 提交代码和解题思路. 
-
 如果碰巧你看到了这些解题思路和算法代码, 并且觉得老王的题解有意思或有帮助, 可以给老王点个赞或者打个赏啥的, 老王就更开心啦 ^o^
 
 <div align="center"><img src="https://github.com/simplemain/leetcode/blob/master/qrcode_pay.min.jpg" width="160" height="160" /></div>

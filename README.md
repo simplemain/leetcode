@@ -17,7 +17,7 @@
 | ID | 解法链接 |    标题   |  难度  |    标签   |
 |---:|:-------|:----------|:-----:|:----------|
 | 1 | [3种解法](https://github.com/simplemain/leetcode/blob/master/1/analysis.md) |  两个数的和 <br/>[Two Sum] | ★☆☆☆☆ | 循环 / 二分搜索 / 排序 / 哈希 |
-| 2 | [1种解法](https://github.com/simplemain/leetcode/blob/master/2/analysis.md) |  两个数相加 <br/>[Add Two Numbers] | ★☆☆☆☆ | 链表 |
+| 2 | [1种解法](https://github.com/simplemain/leetcode/blob/master/2/analysis.md) |  两个数相加 <br/>[Add Two Numbers] | ★☆☆☆☆ | 链表 / 归并 |
 | 3 | [5种解法](https://github.com/simplemain/leetcode/blob/master/3/analysis.md) |  没有重复字母的最长子串 <br/>[Longest Substring Without Repeating Characters] | ★★☆☆☆ | 字符串 / 判重 |
 
 

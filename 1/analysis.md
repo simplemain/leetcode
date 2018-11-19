@@ -1,4 +1,4 @@
-## 1. 两个数的和 [leetcode 1: Two Sum]
+## 1. 两数之和 [leetcode 1: Two Sum]
 
 ### 原题链接
 

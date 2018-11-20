@@ -14,9 +14,12 @@
 <div align="center"><img src="https://github.com/simplemain/leetcode/blob/master/qrcode_pay.min.jpg" width="120" height="120" /></div>
 
 
+### `以下列表, 每日更新↓`
+
 | ID | 解法链接 |    标题   |  难度  |    标签   |
 |---:|:-------|:----------|:-----:|:----------|
 | 1 | [3种解法](https://github.com/simplemain/leetcode/blob/master/1/analysis.md) |  两数之和 <br/>[Two Sum] | ★☆☆☆☆ | 循环 / 二分搜索 / 排序 / 哈希 |
 | 2 | [1种解法](https://github.com/simplemain/leetcode/blob/master/2/analysis.md) |  两个数相加 <br/>[Add Two Numbers] | ★☆☆☆☆ | 链表 / 归并 |
 | 3 | [5种解法](https://github.com/simplemain/leetcode/blob/master/3/analysis.md) |  没有重复字母的最长子串 <br/>[Longest Substring Without Repeating Characters] | ★★☆☆☆ | 字符串 / 判重 |
 | 4 | [3种解法](https://github.com/simplemain/leetcode/blob/master/4/analysis.md) |  两个有序数组的中值 <br/>[Median of Two Sorted Arrays] | ★★★★☆ | 排序 / 归并 / 二分查找 |
+| 5 | [1种解法](https://github.com/simplemain/leetcode/blob/master/5/analysis.md) |  最长镜像子串 <br/>[Longest Palindromic Substring] | ★★☆☆☆ | 子串 |

@@ -10,7 +10,7 @@ public class Solution2
 	public static void main(String[] args) 
 	{
 		final String s = "PAYPALISHIRING";
-        final int n = 4;
+		final int n = 4;
 
 		final Solution sol = new Solution2().new Solution();
 		final String result = sol.convert(s, n);

@@ -13,7 +13,7 @@ public class Solution2
 
 		final Solution sol = new Solution2().new Solution();
 		final int result = sol.reverse(num);
-System.out.println(Integer.MIN_VALUE);
+
 		System.out.printf("%d\n", result);
 	}
 

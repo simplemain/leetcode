@@ -24,3 +24,4 @@
 | 4 | [3种解法](https://github.com/simplemain/leetcode/blob/master/4/analysis.md) |  两个有序数组的中值 <br/>[Median of Two Sorted Arrays] | ★★★★☆ | 排序 / 归并 / 二分查找 |
 | 5 | [1种解法](https://github.com/simplemain/leetcode/blob/master/5/analysis.md) |  最长镜像子串 <br/>[Longest Palindromic Substring] | ★★☆☆☆ | 子串 |
 | 6 | [2种解法](https://github.com/simplemain/leetcode/blob/master/6/analysis.md) |  锯齿形变换 <br/>[ZigZag Conversion] | ★★☆☆☆ | 字符串 |
+| 7 | [2种解法](https://github.com/simplemain/leetcode/blob/master/7/analysis.md) |  反转整数 <br/>[Reverse Integer] | ★★☆☆☆ | 数字计算 |

@@ -25,3 +25,4 @@
 | 5 | [1种解法](https://github.com/simplemain/leetcode/blob/master/5/analysis.md) |  最长镜像子串 <br/>[Longest Palindromic Substring] | ★★☆☆☆ | 子串 |
 | 6 | [2种解法](https://github.com/simplemain/leetcode/blob/master/6/analysis.md) |  锯齿形变换 <br/>[ZigZag Conversion] | ★★☆☆☆ | 字符串 |
 | 7 | [2种解法](https://github.com/simplemain/leetcode/blob/master/7/analysis.md) |  反转整数 <br/>[Reverse Integer] | ★★☆☆☆ | 数字计算 |
+| 8 | [1种解法](https://github.com/simplemain/leetcode/blob/master/8/analysis.md) |  字符串转整数(实现atoi函数) <br/>[String to Integer (atoi)] | ★★★☆☆ | 状态机 / 数字计算 / 编译原理 |
